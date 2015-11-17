@@ -76,8 +76,11 @@
     </Compile>
     <Compile Include="Auto.cs" />
     <Compile Include="Kunde.cs" />
+    <Compile Include="LuxusklasseAuto.cs" />
+    <Compile Include="MittelklasseAuto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reservation.cs" />
+    <Compile Include="StandardAuto.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\MsTeMiniproject.snk">
