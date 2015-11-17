@@ -8,7 +8,7 @@
     <ProjectGuid>{1F53D0EF-0521-4155-835C-C2A04D9FE5DE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AutoReservation.BusinessLayer</RootNamespace>
+    <RootNamespace>AutoReservation.Dal</RootNamespace>
     <AssemblyName>AutoReservation.BusinessLayer</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

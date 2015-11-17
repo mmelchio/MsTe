@@ -8,7 +8,7 @@
     <ProjectGuid>{85305EF6-3B4F-4B7C-B39D-780FA9950156}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AutoReservation.BusinessLayer.Testing</RootNamespace>
+    <RootNamespace>AutoReservation.Dal.Testing</RootNamespace>
     <AssemblyName>AutoReservation.BusinessLayer.Testing</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

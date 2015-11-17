@@ -1,7 +1,7 @@
 ﻿using AutoReservation.TestEnvironment;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace AutoReservation.BusinessLayer.Testing
+namespace AutoReservation.Dal.Testing
 {
     [TestClass]
     public class BusinessLayerTest
